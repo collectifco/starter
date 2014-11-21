@@ -1,0 +1,27 @@
+//
+//	Reset
+// 
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+}
+
+body {
+	margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+picture {
+  display: block;
+}
+
+li ol, li ul {
+  margin-bottom: 0;
+}
